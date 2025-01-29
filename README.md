@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tylerzak/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tylerzak/azure-network-protocols)
 - <b>Proton VPN (Virtual Private Network)</b>
-  - [Proton VPN: Installation and Configuration](https://github.com/tylerzak/configure-vpn)
+  - [Proton VPN: Installation](https://github.com/tylerzak/configure-vpn)
 
 <h2>🤳Connect with me:</h2>
 
